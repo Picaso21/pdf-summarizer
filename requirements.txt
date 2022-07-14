@@ -1,0 +1,6 @@
+PyPDF2==2.5.0
+streamlit==1.10.0
+transformers==4.19.2
+sentencepiece==0.1.96
+torchvision<1.12.0
+
